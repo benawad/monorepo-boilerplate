@@ -1,2 +1,1 @@
-# codeponder
-Marketplace for Code Reviews
+# monorepo boilerplate
