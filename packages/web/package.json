@@ -6,9 +6,7 @@
     "build": "next build",
     "start": "next start",
     "type-check": "tsc",
-    "schema:download": "apollo schema:download --endpoint=http://localhost:4000/graphql",
-    "codegen:generate": "apollo codegen:generate --queries=./graphql/**/*.ts --schema=./schema.json --outputFlat --target=typescript ./lib/schema-types.ts",
-    "generate": "npm run schema:download && npm run codegen:generate"
+    "generate": "gql-gen"
   },
   "dependencies": {
     "@codeponder/common": "1.0.0",
