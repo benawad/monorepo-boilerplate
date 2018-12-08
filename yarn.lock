@@ -7546,14 +7546,14 @@ graphql-codegen-plugin-helpers@0.14.5:
     graphql-codegen-core "0.14.5"
     import-from "2.1.0"
 
-graphql-codegen-typescript-client@0.14.1:
-  version "0.14.1"
-  resolved "https://registry.yarnpkg.com/graphql-codegen-typescript-client/-/graphql-codegen-typescript-client-0.14.1.tgz#7426c8816e0df0402c44435ca5700236816ddf27"
-  integrity sha512-NcAB3Py4gizQyncATJGkhn8vw5NOF7K+1xkaXS0lTgN1RopzbdqaHF6/NrZyHD4oR338CsOXc8ohLSJHOUTh4A==
+graphql-codegen-typescript-client@0.14.5:
+  version "0.14.5"
+  resolved "https://registry.yarnpkg.com/graphql-codegen-typescript-client/-/graphql-codegen-typescript-client-0.14.5.tgz#f709c5087c7e68ae5da95deee3922730b883bc02"
+  integrity sha512-LSygK0temRrXFQyK7y+/JcBj3PPnJ7IbtLs6O0EkxIJauJYVOLKX9uDEVz2gkV46Ku4iK4UlnXYZdRk9Fv87WA==
   dependencies:
-    graphql-codegen-core "0.14.1"
-    graphql-codegen-plugin-helpers "0.14.1"
-    graphql-codegen-typescript-common "0.14.1"
+    graphql-codegen-core "0.14.5"
+    graphql-codegen-plugin-helpers "0.14.5"
+    graphql-codegen-typescript-common "0.14.5"
 
 graphql-codegen-typescript-common@0.14.1:
   version "0.14.1"
