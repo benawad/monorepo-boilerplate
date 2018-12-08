@@ -31,8 +31,8 @@
     "graphql-code-generator": "0.14.5",
     "graphql-codegen-typescript-client": "0.14.5",
     "graphql-codegen-typescript-common": "0.14.5",
+    "nodemon": "1.18.7",
     "graphql-codegen-typescript-react-apollo": "0.14.5",
-    "nodemon": "1.18.6",
     "ts-node": "7.0.1",
     "typescript": "3.1.6",
     "url-loader": "1.1.2"
