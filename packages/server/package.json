@@ -18,7 +18,7 @@
     "graphql": "14.0.2",
     "pg": "7.7.1",
     "reflect-metadata": "0.1.12",
-    "type-graphql": "0.15.0",
+    "type-graphql": "0.16.0",
     "typeorm": "0.2.9"
   },
   "scripts": {
