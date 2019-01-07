@@ -7994,10 +7994,10 @@ form-data@~2.3.2:
     combined-stream "^1.0.6"
     mime-types "^2.1.12"
 
-formik@1.4.1:
-  version "1.4.1"
-  resolved "https://registry.yarnpkg.com/formik/-/formik-1.4.1.tgz#6fb3d18c4fb59f70503734f40afd91dea4219f72"
-  integrity sha512-1pjcg65Pn4fuOgQv4cQOn9wDjCQ6f2J1QONDQaP4GfaiRYN/pQx2xtoyGo9ibNr/zR/cmayr1ew7EFaeAPLvsA==
+formik@1.4.2:
+  version "1.4.2"
+  resolved "https://registry.yarnpkg.com/formik/-/formik-1.4.2.tgz#684e6e9fb0c8309a17b0d8f3f57993ee83bf96f2"
+  integrity sha512-ZssZJmR15wEE+gepEUQQjNoyUIfpc+zwLFZiWNnC4ZolhBM7EQO7wjip+gIC9y/1k3c4tDeEite+CMCwk4ti4Q==
   dependencies:
     create-react-context "^0.2.2"
     deepmerge "^2.1.1"
@@ -8006,8 +8006,8 @@ formik@1.4.1:
     lodash-es "^4.17.11"
     prop-types "^15.6.1"
     react-fast-compare "^2.0.1"
+    tiny-warning "^1.0.2"
     tslib "^1.9.3"
-    warning "^3.0.0"
 
 forwarded@~0.1.2:
   version "0.1.2"
@@ -14036,7 +14036,12 @@ react-docgen-typescript-webpack-plugin@1.1.0:
     ajv "^6.1.1"
     react-docgen-typescript "^1.2.3"
 
-react-docgen-typescript@1.12.2, react-docgen-typescript@^1.2.3:
+react-docgen-typescript@1.12.3:
+  version "1.12.3"
+  resolved "https://registry.yarnpkg.com/react-docgen-typescript/-/react-docgen-typescript-1.12.3.tgz#fe62a5ce82e93573e316366e53adfe8273121c70"
+  integrity sha512-s1XswWs4ykNdWKsPyfM4qptV5dT8nnjnVi2IcjoS/vGlRNYrc0TkW0scVOrinHZ+ndKhPqA4iVNrdwhxZBzJcg==
+
+react-docgen-typescript@^1.2.3:
   version "1.12.2"
   resolved "https://registry.yarnpkg.com/react-docgen-typescript/-/react-docgen-typescript-1.12.2.tgz#d5fb578d12f6876efdde69176f4ea658e75a9a29"
   integrity sha512-pcot0jGiMIyhmwNeSU83GvClNwk9NbcnYHcGf4pKMmw5J43d5OzYRcTzrZTGlIOWjYfYazYhvTxjujE625P3Mw==
@@ -16250,6 +16255,11 @@ timsort@^0.3.0:
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/timsort/-/timsort-0.3.0.tgz#405411a8e7e6339fe64db9a234de11dc31e02bd4"
   integrity sha1-QFQRqOfmM5/mTbmiNN4R3DHgK9Q=
+
+tiny-warning@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/tiny-warning/-/tiny-warning-1.0.2.tgz#1dfae771ee1a04396bdfde27a3adcebc6b648b28"
+  integrity sha512-rru86D9CpQRLvsFG5XFdy0KdLAvjdQDyZCsRcuu60WtzFylDM3eAWSxEVz5kzL2Gp544XiUvPbVKtOA/txLi9Q==
 
 title-case@^2.1.0:
   version "2.1.1"
