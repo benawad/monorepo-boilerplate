@@ -10,7 +10,7 @@
     ]
   },
   "devDependencies": {
-    "lerna": "3.10.3"
+    "lerna": "3.10.4"
   },
   "resolutions": {
     "graphql": "14.0.2"
