@@ -17,7 +17,7 @@
     "express": "4.16.4",
     "graphql": "14.0.2",
     "pg": "7.8.0",
-    "reflect-metadata": "0.1.12",
+    "reflect-metadata": "0.1.13",
     "type-graphql": "0.16.0",
     "typeorm": "0.2.11"
   },
