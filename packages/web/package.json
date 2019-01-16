@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "@types/next": "7.0.6",
-    "@types/react": "16.7.19",
+    "@types/react": "16.7.20",
     "@types/react-dom": "16.0.11",
     "@zeit/next-css": "1.0.1",
     "@zeit/next-typescript": "1.1.1",
