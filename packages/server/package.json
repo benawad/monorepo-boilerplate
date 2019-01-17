@@ -9,7 +9,7 @@
     "@types/node": "10.12.18",
     "nodemon": "1.18.9",
     "ts-node": "7.0.1",
-    "typescript": "3.2.2"
+    "typescript": "3.2.4"
   },
   "dependencies": {
     "apollo-server-express": "2.3.1",
