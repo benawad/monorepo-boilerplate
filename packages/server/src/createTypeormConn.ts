@@ -4,7 +4,8 @@ export const createTypeormConn = async () => {
   let retries = 5;
   while (retries) {
     try {
-      return createConnection(await getConnectionOptions(process.env.NODE_ENV));
+      const options = await getConnectionOptions(process.env.NODE_ENV);
+      return createConnection(await getConnectionOptions({...options, name: "default"}));
     } catch (err) {
       console.log(err);
       retries -= 1;
