@@ -5,7 +5,7 @@
   "types": "dist/index.d.ts",
   "license": "MIT",
   "devDependencies": {
-    "@types/yup": "0.26.4",
+    "@types/yup": "0.26.5",
     "typescript": "3.2.4"
   },
   "dependencies": {
