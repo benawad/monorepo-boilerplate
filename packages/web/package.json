@@ -32,7 +32,7 @@
     "graphql-codegen-typescript-client": "0.16.0",
     "graphql-codegen-typescript-common": "0.16.0",
     "nodemon": "1.18.9",
-    "graphql-codegen-typescript-react-apollo": "0.16.0",
+    "graphql-codegen-typescript-react-apollo": "0.16.1",
     "ts-node": "8.0.1",
     "typescript": "3.2.4",
     "url-loader": "1.1.2"
